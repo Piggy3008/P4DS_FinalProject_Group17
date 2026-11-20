@@ -1,4 +1,4 @@
-name: pfds
+name: wa-ev-insights
 channels:
   - conda-forge
   - nodefaults
