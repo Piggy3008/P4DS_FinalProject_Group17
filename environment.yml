@@ -1,0 +1,16 @@
+name: pfds
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas>=2.2
+  - scipy            # statistical tests, bootstrap (D5)
+  - matplotlib
+  - seaborn
+  - scikit-learn>=1.5
+  - jupyterlab
+  - ipykernel
+  - nbconvert        # run notebooks headless: jupyter nbconvert --execute
+  - pip

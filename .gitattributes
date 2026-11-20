@@ -1,0 +1,4 @@
+# Repo is edited from both Windows and WSL: normalise line endings
+* text=auto eol=lf
+*.pdf binary
+*.png binary
